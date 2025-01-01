@@ -1,0 +1,13 @@
+*{
+  margin: 0;
+  padding: 0;
+
+}
+body{
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgb(78, 78, 76);
+  color: black;
+}
