@@ -1,0 +1,15 @@
+.counter-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(100, 100, 145);
+    width: 500px;
+    gap: 20px;
+}
+.btn{
+    background-color: rgb(61, 93, 196);
+    color: black;
+    border-radius: 4px;
+    height: 50px;
+    width: 80px;
+}
